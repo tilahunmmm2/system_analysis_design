@@ -1,5 +1,5 @@
 {
-  "homepage": "https://<your-username>.github.io/<repo-name>",
+  "homepage": "https://<tilahunmmm2>.github.io/<repo-name>",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
