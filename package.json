@@ -1,4 +1,10 @@
 {
+  "homepage": "https://<your-username>.github.io/<repo-name>",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
   "name": "system-analysis-design-site",
   "version": "1.0.0",
   "private": true,
