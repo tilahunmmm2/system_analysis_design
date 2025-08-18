@@ -15,6 +15,13 @@
     "tailwindcss": "^3.3.0"
   },
   "scripts": {
+  "deploy": "echo Deploying project..."
+}
+  "scripts": {
+  "start": "node index.js",
+  "test": "jest"
+}
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
